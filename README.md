@@ -1,4 +1,4 @@
-Hi, I'm Sharanya 👋
+Hi, I'm **SHARANYA** 👋
 
 Computer Science & Engineering Student | Aspiring .NET Developer
 
